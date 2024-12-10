@@ -1,0 +1,12 @@
+logging:
+  pattern:
+    dateformat: yyyy-MM-dd HH:mm:ss.SSS
+
+spring:
+  application:
+    name: demo
+  data:
+    redis:
+      host: 10.10.5.34
+      database: 0
+
